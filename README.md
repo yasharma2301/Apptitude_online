@@ -1,5 +1,11 @@
 # PicBucket
 
+VIDEO FOR THE PROJECT:
+https://drive.google.com/file/d/1VYQ5HXa0OTKt4sa1fKpoySFf5RlvvUZB/view?usp=sharing
+
+PHOTOS FOR THE PROJECT:
+https://drive.google.com/drive/folders/1d1VfVOoTyU0T9ARxTc03L12y-NxXf2mq?usp=sharing
+
 PicBucket is an app where in you can discover hd images from all over the internet. Search for a keyword and see a tonne of results in a single tap.
 
 Why stop at same old boring search feature? When we provide you with a feature capable of recognising captured images and fetching the most accurate results for it!
@@ -51,3 +57,5 @@ Dillinger is currently extended with the following plugins. Instructions on how 
    [Firebase ML Kit]: <https://firebase.google.com/docs/ml-kit>
    [Hive]: <https://pub.dev/packages/hive>
    [Image Picker]: <https://pub.dev/packages/image_picker>
+   
+   
